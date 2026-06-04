@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  Mumd
+  <br>
+  <a href="https://x.com/user9JKsuG" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="Mumd on X" />
+  </a>
+</h1>
 
-<!--
-**iMumd/imumd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Software Developer & Reverse Engineer
+  <br>
+  Used to do Minecraft stuff. Now I reverse engineer anti-bots.
+</p>
