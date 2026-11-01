@@ -6,6 +6,4 @@
 
 <p align="center">
   Software Developer & Reverse Engineer
-  <br>
-  Used to do Minecraft stuff. Now I reverse engineer anti-bots.
 </p>
