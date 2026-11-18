@@ -39,7 +39,6 @@ class Muhammed implements Hacker, Developer {
 
   get contact(): Record<string, string> {
     return {
-      site: "me.mumd.dev",
       email: "hi@mumd.dev",
       github: "iMumd",
     }
