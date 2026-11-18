@@ -1,10 +1,10 @@
 ```typescript
 interface Hacker {
-  break(target: Scope): Report // only with written permission
+  break(target: Scope): Report
 }
 
 interface Developer {
-  build(idea: Idea): Production // end to end, front to back
+  build(idea: Idea): Production
 }
 
 class Muhammed implements Hacker, Developer {
@@ -26,15 +26,13 @@ class Muhammed implements Hacker, Developer {
     }
   }
 
-  // find the bug before someone else does.
   break(target: Scope): Report {
     if (!target.authorized) throw new Error("consent first, always")
     return this.recon(target).exploit().writeup({ repro: true })
   }
 
-  // then build the thing that doesn't have it.
   build(idea: Idea): Production {
-    return this.design(idea).ship() // small, often, in production
+    return this.design(idea).ship()
   }
 
   get contact(): Record<string, string> {
