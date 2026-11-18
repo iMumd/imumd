@@ -8,8 +8,6 @@ interface Developer {
 }
 
 class Muhammed implements Hacker, Developer {
-  readonly handle = "iMumd"
-  readonly based = "Gaza City, Occupied Palestine"
   readonly speaks = ["Arabic", "English"]
 
   get whoami(): { now: string[]; past: string[] } {
